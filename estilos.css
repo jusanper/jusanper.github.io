@@ -162,6 +162,7 @@ form {
 }
 ul li{
 	margin-left: 1.5em;
+	list-style-image:url(images/lista.png);
 }
 @media (min-width: 768px){
     .col-1 {
